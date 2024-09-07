@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/CS_415 MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/CS_415 MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/CS_415 MP1/Content/Blueprints/BP_Projectile.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/CS_415 MP1/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/coin.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/Material_25.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/health_pack_asset_-_sci_fi.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/health_pack_asset_-_sci_fi_texture_0.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/health_pack_asset_-_sci_fi_texture_1.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/health_pack_asset_-_sci_fi_texture_2.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/health_pack_asset_-_sci_fi_texture_3.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/HealthPack_MAT.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/projectile_-_magma_ball__1_.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/projectile_-_magma_ball__1__texture_0.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/stylized_coin.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Meshes/stylized_coin_texture_0.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/T_Restart.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/WBP_Restart.uasset",
+				"C:/Users/isaac/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Spawner.uasset"
+			]
+		}
+	]
+}
